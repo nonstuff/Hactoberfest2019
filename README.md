@@ -62,3 +62,7 @@ Hacktoberfest Classroom Project 2019
 > Hi, how do you do? Where did you come from, where did you go? Where did you come from, Cotton-Eye Joe?
 ---
 
+### Arsalan
+[arsalanArshad](https://github.com/nonstuff)
+> Is javascript an interpreted language?
+---
